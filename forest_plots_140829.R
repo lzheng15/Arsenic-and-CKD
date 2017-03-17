@@ -31,7 +31,7 @@ load("/Users/LauraZheng/Documents/Hopkins Classes Stuff/Strong Heart Study/basic
 #par(mfrow=c(1,2),oma=c(2,0,4,0), mar=c(4,3,2,16), lwd=1.10)
 
 
-# FOR ALL PLOTS
+# FOR ALL PLOTS  
 
 #Subgroup headings
 group <- c(expression(bold("Overall")),
